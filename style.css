@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after 
+{
+  box-sizing: border-box;
+}
+
+* 
+{
+  margin: 0;
+  padding: 0;
+}
+
+a
+{
+  text-decoration: none;
+}
+
+body
+{
+  color: #fff;
+  background-color: #000;
+}
+
+.container
+{
+  padding: 0 10%;
+}
+
+.page-heading
+{
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Orbitron", sans-serif;
+}
